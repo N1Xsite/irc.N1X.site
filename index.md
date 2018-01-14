@@ -13,5 +13,7 @@ Live a lifestyle that matches your vision.
  - Select thy alias-nama.
  - Hit /JOIN
  - *blurrrrt* \(4xr\)
+ 
+#### [USE-NETAliter](http://webchat.freenode.net?channels=%23N1Xsite&uio=MTY9dHJ1ZSYyPXRydWUmND10cnVlJjk9dHJ1ZSYxMT0wJjEyPXRydWUmMTU9dHJ1ZQed) if box dunt pop.. 
 
 <html><body><iframe src="http://webchat.freenode.net?channels=%23N1Xsite&uio=MTY9dHJ1ZSYyPXRydWUmND10cnVlJjk9dHJ1ZSYxMT0wJjEyPXRydWUmMTU9dHJ1ZQed" width="647" height="400"></iframe></body></html>
