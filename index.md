@@ -14,4 +14,4 @@ Live a lifestyle that matches your vision.
  - Hit /JOIN
  - *blurrrrt* \(4xr\)
 
-<html><iframe src="http://webchat.freenode.net?nick=N1XfriendNo.&channels=%23N1Xsite&prompt=1&uio=MTY9dHJ1ZSYyPXRydWUmND10cnVlJjk9dHJ1ZSYxMT0wJjEyPXRydWUmMTU9dHJ1ZQed" width="647" height="400"></iframe></html>
+<html><body><iframe src="http://webchat.freenode.net?channels=%23N1Xsite&uio=MTY9dHJ1ZSYyPXRydWUmND10cnVlJjk9dHJ1ZSYxMT0wJjEyPXRydWUmMTU9dHJ1ZQed" width="647" height="400"></iframe></body></html>
