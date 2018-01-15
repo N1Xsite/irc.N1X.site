@@ -16,4 +16,4 @@ Live a lifestyle that matches your vision.
  
 #### [USE-NET Aliter](http://webchat.freenode.net?channels=%23N1Xsite&uio=MTY9dHJ1ZSYyPXRydWUmND10cnVlJjk9dHJ1ZSYxMT0wJjEyPXRydWUmMTU9dHJ1ZQed) if thy box dunt pop.. 
 
-<html><body><iframe src="https://kiwiirc.com/client/irc.kiwiirc.com/?nick=N1XussrTor|?&theme=cli#N1Xsite" style="border:0; width:100%; height:450px;"></iframe><br><hr><br><iframe src="https://kiwiirc.com/client/irc.kiwiirc.com/?nick=N1Xfam|?&theme=cli#N1Xsite" style="border:0; width:100%; height:960px;"></iframe></body></html>
+<html><body><iframe src="https://kiwiirc.com/client/irc.kiwiirc.com/?nick=N1XussrTor|?&theme=cli#N1Xsite" style="border:0; width:100%; height:45%;"></body></html>
