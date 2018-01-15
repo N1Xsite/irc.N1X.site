@@ -6,7 +6,6 @@
 ### Chapter 14
 Live a lifestyle that matches your vision.
 
----
 
 #### Instructionale:
 
